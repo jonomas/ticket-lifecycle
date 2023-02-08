@@ -37,7 +37,7 @@ The first step in actually using this ticketing platform is for a ticket to be c
 <img src="https://i.imgur.com/BZzkktV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Presently working on the ticket for a quick resolution.
+Presently working on the ticket; updating the ticket severity and the SLA to match the ticket and assigning it to the appropriate agent for resolution in a timely fashion.
 </p>
 <br />
 
@@ -45,6 +45,6 @@ Presently working on the ticket for a quick resolution.
 <img src="https://i.imgur.com/V7qDocf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-And lastly, actually resolving the problem.
+And lastly, actually resolving the problem, closing out the ticket and marking it "resolved".
 </p>
 <br />
